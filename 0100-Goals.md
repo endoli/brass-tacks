@@ -21,3 +21,9 @@ with setting up an entire stack of tools and frameworks.
 
 Make writing a tool that has some graphical output as easy as
 writing a text-based tool.
+
+## Structured Information
+
+Information has structure and meaning. We should maintain this
+for as long as possible within the systems rather than throwing
+it away when rendering output, etc.
