@@ -26,5 +26,11 @@ Graphs allow us to describe the underlying objects in ways
 that are machine understandable and we can build many things
 on top of these graphs.
 
-We will cover this in more detail in an upcoming section
-on Structured Data (yet to be written).
+The second primitive that we will build everything upon
+is very closely related to graphs. It is the sequence of
+operations used to update a graph. Many of our systems build
+not just upon using graphs, but upon keeping graphs in sync
+or up to date.
+
+We will cover both of these primtives in more detail in an
+upcoming section on Structured Data (yet to be written).
