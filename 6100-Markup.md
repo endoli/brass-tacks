@@ -50,7 +50,7 @@ view of the `markup` library is that it will be the data
 structures and rendering implementations for a variety of
 output formats or devices.
 
-### Document Tree
+### Document Tree (Document Graph)
 
 Many tools for dealing with text formatting and markup
 languages maintain a document tree to represent the
@@ -61,3 +61,14 @@ and Pandoc.
 
 We should be able to borrow heavily from the design
 of these existing systems.
+
+Also, this is really a graph, not a tree, due to things
+like linking to the underlying objects being presented
+as well as stylesheets and the like.
+
+### GUI Widget Graphs
+
+There's an interesting overlap between the document graph for
+displaying information and the UI graph that is used for
+displaying the user interface. Should there be 2 distinct
+solutions here?
