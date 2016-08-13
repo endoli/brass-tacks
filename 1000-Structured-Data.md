@@ -1,4 +1,6 @@
-# Graphs as the Primitive
+# Structured Data
+
+## Graphs as the Primitive
 
 In Unix, a sequence of bytes is typically seen as the primitive
 for all data interchange. Files are sequences of bytes. Pipes
@@ -31,6 +33,3 @@ is very closely related to graphs. It is the sequence of
 operations used to update a graph. Many of our systems build
 not just upon using graphs, but upon keeping graphs in sync
 or up to date.
-
-We will cover both of these primtives in more detail in an
-upcoming section on Structured Data (yet to be written).
