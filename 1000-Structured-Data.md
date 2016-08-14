@@ -33,3 +33,20 @@ is very closely related to graphs. It is the sequence of
 operations used to update a graph. Many of our systems build
 not just upon using graphs, but upon keeping graphs in sync
 or up to date.
+
+## Searching, Sorting, Filtering
+
+Performing search, sorting and filtering operations on
+unstructured data isn't ideal. Since we have structured
+data and have information about the data types involved,
+we can do significantly better.
+
+Many small graphs can be operated upon without complicated
+indexing or anything else. However, larger graphs or more
+persistent graphs may want to set up advanced indexing as
+an optimization.
+
+Lucene provides some good background for what sort of
+indexing might be useful. For example, value range indexing
+as well as full text search techniques would both be
+useful.
