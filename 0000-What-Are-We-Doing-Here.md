@@ -31,3 +31,18 @@ These techniques can be applied to development and programming
 tools, operating system shells (both command line and GUI),
 windowing systems, and even things like educational materials
 like the future of books.
+
+## Substrate
+
+We are supplying a new substrate for building software. This
+allows for building individual applications as well as broader
+concepts up to and including an alternative operating system
+shell / UI.
+
+This substrate provides the following key services:
+
+* Structured Data
+* Command Handling
+* User Interface System
+
+We will discuss each of these in depth in subsequent documents.
