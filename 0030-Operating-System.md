@@ -27,3 +27,7 @@ In particular, it is interesting to watch what happens with Rust
 running on the SeL4 kernel as well as projects like Redox. In fact,
 projects like Redox may well find some of the data model, approaches
 with commands, and more interesting or perhaps even "useful".
+
+Another interesting target to watch is the Fuchsia project from Google.
+This is moving along well and unlike any L4 system that I've seen, it
+is actually easy to build and run on macOS, not just Linux.
