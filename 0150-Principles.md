@@ -1,10 +1,12 @@
-# Tangibility
+# Principles
+
+## Tangibility
 
 Everything is tangible.
 
-We've seen that everything is structured data.
+We'll see that everything is structured data.
 
-We've seen how the command system works.
+We'll see how the command system works.
 
 There's a lot of fallout from these things. One of them is that,
 in this world, everything is tangible.
@@ -20,3 +22,22 @@ somewhere. It is something that we can interact with, query,
 command, inspect.
 
 This should be true of everything within the system.
+
+## Immediacy
+
+...
+
+## Accessibility
+
+...
+
+## Direct Manipulation
+
+...
+
+## Visibility
+
+Everything is visible.
+
+Logging, tracing and performance monitoring metrics are built
+into the system at every level.
