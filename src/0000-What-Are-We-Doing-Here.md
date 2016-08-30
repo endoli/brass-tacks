@@ -32,6 +32,17 @@ tools, operating system shells (both command line and GUI),
 windowing systems, and even things like educational materials
 like the future of books.
 
+## AI First?
+
+There's talk of developing for AI first. We've previously
+developed for "mobile first" and at some point soon there will
+likely be talk (for some applications) of "VR first".
+
+Multimode interfaces are very important to us. As we'll see,
+we treat interaction with an application in a way that fully
+supports using the application from multiple contexts or
+interfaces.
+
 ## Substrate
 
 We are supplying a new substrate for building software. This
